@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "evolio-spisy": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/pripady/mcp"
+    },
+    "evolio-subjekty": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/subjekty/mcp"
+    },
+    "evolio-udalosti": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/udalosti/mcp"
+    },
+    "evolio-ukoly": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/ukoly/mcp"
+    },
+    "evolio-posta": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/posta/mcp"
+    },
+    "evolio-fakturace": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/fakturace/mcp"
+    },
+    "evolio-pausaly": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/pausaly/mcp"
+    },
+    "evolio-finance": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/finance/mcp"
+    },
+    "evolio-banka": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/banka/mcp"
+    },
+    "evolio-splatky": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/splatky/mcp"
+    },
+    "evolio-aml": {
+      "type": "http",
+      "url": "https://emcp.evolio.cz/ruzicka/aml/mcp"
+    }
+  }
+}
