@@ -1,0 +1,8 @@
+{
+  "name": "evolio",
+  "version": "1.0.0",
+  "description": "Ovládání Evolia z Codexis agenta: spisy, subjekty, události, úkoly, pošta, fakturace, paušály, finance, banka, splátky a AML.",
+  "author": {
+    "name": "ruzicka"
+  }
+}
